@@ -1,1 +1,1 @@
-{\rtf1}# KafkaConsumer
+Kafka consumer example
